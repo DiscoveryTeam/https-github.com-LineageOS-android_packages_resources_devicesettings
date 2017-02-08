@@ -122,6 +122,6 @@
   <string name="fingerprint_title">Impronte digitali</string>
   <string name="fingerprint_as_home_title">Impronte digitali come home</string>
   <string name="fingerprint_as_home_summary">Utilizza lettore impronte digitali come pulsante home</string>
-  <string name="fingerprint_wakeup_title">Risveglo impronte digitali</string>
+  <string name="fingerprint_wakeup_title">Risveglio impronte digitali</string>
   <string name="fingerprint_wakeup_summary">Consenti al sensore d\'impronte digitali di risvegliare il dispositivo quando lo schermo è spento</string>
 </resources>
